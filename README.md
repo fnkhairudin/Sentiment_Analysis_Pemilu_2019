@@ -18,3 +18,15 @@ Machine Learning Metrics:
 1. Accuracy
 2. Precision
 3. Recall
+
+Project Organization
+------------
+
+    ├── README.md          <- The top-level README for developers using this project.
+    ├── data
+    │   ├── processed      <- data seen dan data un-seen
+    │   └── raw            <- raw dataset
+    │
+    ├── model              <- machine learning model
+    │
+    ├── notebooks          <- Jupyter notebooks: 0.0.0-title-group alias.ipynb
