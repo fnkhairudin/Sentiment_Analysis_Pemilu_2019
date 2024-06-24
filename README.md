@@ -25,7 +25,6 @@ Project Organization
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
     │   ├── processed      <- data seen dan data un-seen
-    │   └── raw            <- raw dataset
     │
     ├── model              <- machine learning model
     │
